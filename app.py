@@ -21,3 +21,5 @@ print(f"天气: is_hot : {is_hot} is_code :{is_code}")
 
 name = input("请输入姓名:")
 print(f'hi {name}')
+
+print('我喜欢李欢欢')
